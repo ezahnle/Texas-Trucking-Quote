@@ -1,0 +1,1480 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- SEO Meta Tags -->
+    <title>Texas Commercial Trucking Insurance | Ed Zahnle Licensed Elite Producer | Call 800-266-8789</title>
+    <meta name="description" content="Texas commercial trucking insurance from licensed elite producer Ed Zahnle with Western States authority. Permian Basin oil field, Houston port drayage, FMCSA compliance. Call 800-266-8789">
+    <meta name="keywords" content="texas commercial trucking insurance, texas trucking insurance, houston trucking insurance, dallas trucking insurance, permian basin trucking insurance, texas oil field trucking insurance, texas port drayage insurance, ed zahnle texas, licensed elite producer texas, texas commercial truck insurance, texas motor carrier insurance, texas freight insurance, texas transport insurance, texas dump truck insurance, texas border trucking insurance">
+    
+    <!-- Enhanced Local SEO -->
+    <meta name="geo.region" content="US-TX">
+    <meta name="geo.placename" content="Texas, Houston, Dallas, San Antonio, Austin, El Paso, Fort Worth">
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+    <meta name="author" content="Ed Zahnle - Texas Commercial Trucking Insurance Licensed Elite Producer">
+    
+    <!-- Open Graph -->
+    <meta property="og:title" content="Texas Commercial Trucking Insurance | Ed Zahnle Licensed Elite Producer">
+    <meta property="og:description" content="Texas commercial trucking insurance from licensed elite producer Ed Zahnle. Permian Basin oil operations, Houston port expertise, complete FMCSA compliance.">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://networktruckinginsurance.github.io/texas-commercial-trucking-insurance">
+    <meta property="og:site_name" content="Network Trucking Insurance - Texas Commercial Trucking Insurance Authority">
+    <meta property="og:image" content="https://networktruckinginsurance.com/wp-content/uploads/2025/08/ed-zahnle-sentry-appointment-scaled.jpg">
+    
+    <!-- Schema Markup -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": ["InsuranceAgency", "LocalBusiness"],
+        "name": "Network Trucking Insurance - Texas Commercial Trucking Insurance",
+        "alternateName": "Texas Commercial Trucking Insurance Authority - Licensed Elite Producer",
+        "description": "Texas commercial trucking insurance through Network's licensed elite producer platform. Ed Zahnle provides Permian Basin oil field, Houston port drayage, energy transport coverage with Western States authority and comprehensive FMCSA compliant solutions.",
+        "url": "https://networktruckinginsurance.github.io/texas-commercial-trucking-insurance",
+        "telephone": "+1-800-266-8789",
+        "email": "ed.zahnle@truckerinsurance.com",
+        "employee": {
+            "@type": "Person",
+            "name": "Ed Zahnle",
+            "jobTitle": "Licensed Elite Producer - Texas Commercial Trucking Insurance Specialist",
+            "telephone": "+1-800-266-8789",
+            "email": "ed.zahnle@truckerinsurance.com",
+            "hasCredential": "Licensed Elite Producer CA #0I54458",
+            "yearsOfExperience": "15"
+        },
+        "areaServed": {
+            "@type": "State",
+            "name": "Texas"
+        },
+        "serviceType": [
+            "Texas Commercial Trucking Insurance",
+            "Permian Basin Oil Field Trucking Insurance", 
+            "Houston Port Drayage Insurance",
+            "Texas Energy Transport Insurance",
+            "Texas Border Trucking Insurance",
+            "Texas Agricultural Truck Insurance",
+            "Dallas Fort Worth Trucking Insurance",
+            "San Antonio Trucking Insurance",
+            "Austin Trucking Insurance"
+        ]
+    }
+    </script>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --texas-leather: #8B4513;
+            --lone-star-blue: #1E3A8A;
+            --oil-field-gold: #DAA520;
+            --texas-black: #0F172A;
+            --houston-yellow: #FCD34D;
+            --texas-red: #BF0A30;
+            --texas-navy: #002868;
+            --permian-blue: #4682B4;
+            --energy-orange: #FF6347;
+            --border-green: #10B981;
+            --progressive-orange: #FF6B35;
+            --elite-access-teal: #26d0ce;
+            --white: #FFFFFF;
+            --glass-white: rgba(255, 255, 255, 0.1);
+            --glass-border: rgba(255, 255, 255, 0.2);
+            --text-primary: #FFFFFF;
+            --text-secondary: #B8C5D6;
+            --gradient-texas: linear-gradient(135deg, #BF0A30 0%, #002868 50%, #DAA520 100%);
+            --gradient-oil: linear-gradient(135deg, #8B4513 0%, #DAA520 50%, #FF6347 100%);
+            --gradient-miles: linear-gradient(135deg, #0F172A 0%, #1E3A8A 100%);
+            --gradient-road: linear-gradient(135deg, #DAA520 0%, #FCD34D 100%);
+            --gradient-success: linear-gradient(135deg, #10B981 0%, #059669 100%);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            color: var(--text-primary);
+            background: var(--texas-black);
+            overflow-x: hidden;
+        }
+
+        .texas-road-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            background: var(--gradient-miles);
+            opacity: 0.95;
+        }
+
+        .texas-road-background::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                radial-gradient(circle at 20% 80%, rgba(191, 10, 48, 0.15) 0%, transparent 40%),
+                radial-gradient(circle at 80% 20%, rgba(0, 40, 104, 0.15) 0%, transparent 40%),
+                radial-gradient(circle at 40% 40%, rgba(255, 99, 71, 0.1) 0%, transparent 40%);
+            animation: texasPulse 20s ease-in-out infinite;
+        }
+
+        @keyframes texasPulse {
+            0%, 100% { opacity: 0.6; transform: scale(1); }
+            50% { opacity: 1; transform: scale(1.05); }
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* Texas Authority Header Bar */
+        .texas-miles-bar {
+            background: var(--gradient-texas);
+            color: white;
+            padding: 12px 20px;
+            text-align: center;
+            font-weight: 700;
+            font-size: 14px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            animation: texasGlow 3s ease-in-out infinite;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        @keyframes texasGlow {
+            0%, 100% { box-shadow: 0 0 20px rgba(191, 10, 48, 0.3); }
+            50% { box-shadow: 0 0 40px rgba(191, 10, 48, 0.6); }
+        }
+
+        .texas-miles-bar a {
+            color: var(--houston-yellow);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        /* Hero Section */
+        .hero {
+            padding: 80px 0;
+            text-align: center;
+            position: relative;
+        }
+
+        .texas-authority-badge {
+            background: var(--gradient-texas);
+            color: white;
+            padding: 20px 40px;
+            border-radius: 50px;
+            font-weight: 800;
+            font-size: 20px;
+            margin-bottom: 30px;
+            display: inline-block;
+            border: 4px solid var(--oil-field-gold);
+            animation: authorityPulse 2s ease-in-out infinite;
+            box-shadow: 0 0 40px rgba(191, 10, 48, 0.5);
+        }
+
+        @keyframes authorityPulse {
+            0%, 100% { 
+                box-shadow: 0 0 40px rgba(191, 10, 48, 0.5); 
+                transform: scale(1); 
+            }
+            50% { 
+                box-shadow: 0 0 60px rgba(191, 10, 48, 0.8); 
+                transform: scale(1.05); 
+            }
+        }
+
+        .hero-content h1 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: clamp(42px, 6vw, 72px);
+            font-weight: 800;
+            color: white;
+            margin-bottom: 30px;
+            line-height: 1.1;
+            text-shadow: 0 3px 6px rgba(0,0,0,0.4);
+        }
+
+        .hero-subtitle {
+            font-size: 26px;
+            color: var(--houston-yellow);
+            margin-bottom: 40px;
+            opacity: 0.95;
+            max-width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+            font-weight: 600;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+
+        .texas-trucker-hats-hero {
+            width: 300px;
+            height: 300px;
+            border-radius: 20px;
+            border: 6px solid var(--oil-field-gold);
+            object-fit: cover;
+            margin: 30px 0;
+            box-shadow: 0 0 50px rgba(218, 165, 32, 0.6);
+            animation: hatsFloat 8s ease-in-out infinite;
+        }
+
+        @keyframes hatsFloat {
+            0%, 100% { transform: translateY(0px) scale(1); }
+            33% { transform: translateY(-8px) scale(1.02); }
+            66% { transform: translateY(4px) scale(0.98); }
+        }
+
+        .texas-miles-story {
+            background: rgba(139, 69, 19, 0.2);
+            border: 2px solid var(--texas-leather);
+            border-radius: 20px;
+            padding: 40px;
+            margin: 40px auto;
+            max-width: 900px;
+            backdrop-filter: blur(10px);
+        }
+
+        .texas-miles-story h3 {
+            color: var(--oil-field-gold);
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 32px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .texas-miles-story p {
+            color: var(--text-primary);
+            font-size: 20px;
+            line-height: 1.7;
+            font-style: italic;
+            text-align: center;
+        }
+
+        .texas-badges {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 50px 0;
+        }
+
+        .texas-badge-item {
+            background: rgba(255,255,255,0.15);
+            backdrop-filter: blur(10px);
+            padding: 16px 24px;
+            border-radius: 30px;
+            font-weight: 600;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .texas-badge-item.authority {
+            background: var(--gradient-texas);
+            color: white;
+            border: 3px solid var(--oil-field-gold);
+        }
+
+        .texas-badge-item.oil {
+            background: var(--gradient-oil);
+            color: white;
+        }
+
+        .texas-badge-item.port {
+            background: linear-gradient(135deg, var(--permian-blue) 0%, var(--houston-yellow) 100%);
+            color: var(--texas-black);
+        }
+
+        .texas-badge-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        }
+
+        .cta-button {
+            background: var(--gradient-road);
+            color: var(--texas-black);
+            padding: 24px 60px;
+            text-decoration: none;
+            font-weight: 800;
+            font-size: 1.3rem;
+            border-radius: 50px;
+            display: inline-block;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+            transition: transform 0.3s ease;
+            margin-top: 40px;
+            border: 3px solid var(--oil-field-gold);
+        }
+
+        .cta-button:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 15px 40px rgba(218, 165, 32, 0.4);
+        }
+
+        /* Operations Features */
+        .texas-operations-section {
+            background: var(--glass-white);
+            border: 2px solid var(--texas-leather);
+            border-radius: 24px;
+            padding: 80px 40px;
+            margin: 100px 20px;
+            backdrop-filter: blur(20px);
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 80px;
+        }
+
+        .section-header h2 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 52px;
+            color: white;
+            margin-bottom: 24px;
+            font-weight: 700;
+        }
+
+        .section-header p {
+            font-size: 22px;
+            color: var(--text-secondary);
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .texas-operations-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 40px;
+        }
+
+        .texas-operations-card {
+            background: rgba(191, 10, 48, 0.1);
+            padding: 50px 35px;
+            border-radius: 20px;
+            text-align: center;
+            border: 2px solid var(--texas-red);
+            transition: all 0.3s ease;
+            backdrop-filter: blur(15px);
+        }
+
+        .texas-operations-card:hover {
+            transform: translateY(-10px);
+            background: rgba(191, 10, 48, 0.15);
+            border-color: var(--oil-field-gold);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+
+        .texas-operations-card h3 {
+            color: var(--texas-red);
+            margin-bottom: 18px;
+            font-size: 22px;
+            font-weight: 600;
+        }
+
+        .texas-operations-card p {
+            color: var(--text-secondary);
+            line-height: 1.8;
+            font-size: 16px;
+        }
+
+        /* Elite Producer Section */
+        .elite-producer-section {
+            background: var(--glass-white);
+            border: 2px solid var(--texas-leather);
+            border-radius: 24px;
+            padding: 80px 40px;
+            margin: 100px 20px;
+            backdrop-filter: blur(20px);
+        }
+
+        .producer-content {
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            gap: 48px;
+            align-items: center;
+        }
+
+        .ed-showcase {
+            text-align: center;
+        }
+
+        .ed-main-photo {
+            width: 300px;
+            height: 300px;
+            border-radius: 20px;
+            object-fit: cover;
+            border: 3px solid var(--progressive-orange);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            margin-bottom: 20px;
+        }
+
+        .ed-award-photos {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .ed-award-photo {
+            width: 146px;
+            height: 110px;
+            border-radius: 12px;
+            object-fit: cover;
+            border: 2px solid var(--oil-field-gold);
+        }
+
+        .producer-details {
+            color: var(--text-primary);
+        }
+
+        .producer-details h3 {
+            color: var(--elite-access-teal);
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 32px;
+            margin-bottom: 24px;
+        }
+
+        .producer-box {
+            border-radius: 16px;
+            padding: 20px;
+            margin-bottom: 16px;
+            border-left: 4px solid;
+        }
+
+        .elite-box {
+            background: rgba(30, 58, 138, 0.1);
+            border-left-color: var(--lone-star-blue);
+        }
+
+        .texas-box {
+            background: rgba(191, 10, 48, 0.1);
+            border-left-color: var(--texas-red);
+        }
+
+        .solution-box {
+            background: rgba(16, 185, 129, 0.1);
+            border-left-color: var(--border-green);
+        }
+
+        .producer-box h4 {
+            font-size: 20px;
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+
+        .elite-box h4 { color: var(--lone-star-blue); }
+        .texas-box h4 { color: var(--texas-red); }
+        .solution-box h4 { color: var(--border-green); }
+
+        /* Quote Section */
+        .quote-section {
+            background: rgba(139, 69, 19, 0.1);
+            border-top: 4px solid var(--texas-leather);
+            border-bottom: 4px solid var(--texas-leather);
+            padding: 100px 0;
+            margin: 100px 0;
+        }
+
+        .quote-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 60px;
+            max-width: 1300px;
+            margin: 0 auto;
+        }
+
+        .quote-form-container {
+            background: var(--glass-white);
+            border: 3px solid var(--oil-field-gold);
+            border-radius: 24px;
+            padding: 50px;
+            backdrop-filter: blur(20px);
+        }
+
+        .form-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .form-header h2 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 32px;
+            color: var(--houston-yellow);
+            margin-bottom: 16px;
+        }
+
+        .quote-benefits {
+            background: var(--glass-white);
+            border: 3px solid var(--texas-leather);
+            border-radius: 24px;
+            padding: 50px;
+            backdrop-filter: blur(20px);
+        }
+
+        .benefits-header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .benefits-header h2 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 32px;
+            color: var(--oil-field-gold);
+            margin-bottom: 16px;
+        }
+
+        .form-group {
+            margin-bottom: 24px;
+        }
+
+        .form-label {
+            display: block;
+            color: var(--text-primary);
+            font-weight: 600;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+
+        .form-input, .form-select, .form-textarea {
+            width: 100%;
+            padding: 18px;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+            border-radius: 12px;
+            background: rgba(255, 255, 255, 0.1);
+            color: var(--text-primary);
+            font-size: 16px;
+            font-family: 'Inter', sans-serif;
+            transition: all 0.3s ease;
+        }
+
+        .form-input:focus, .form-select:focus, .form-textarea:focus {
+            outline: none;
+            border-color: var(--houston-yellow);
+            box-shadow: 0 0 20px rgba(252, 211, 77, 0.3);
+            background: rgba(255, 255, 255, 0.15);
+        }
+
+        .form-textarea {
+            min-height: 120px;
+            resize: vertical;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        .checkbox-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 8px;
+        }
+
+        .checkbox-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .checkbox-item:hover {
+            background: rgba(191, 10, 48, 0.2);
+        }
+
+        .submit-button {
+            background: var(--gradient-road);
+            color: var(--texas-black);
+            padding: 24px 40px;
+            border: none;
+            border-radius: 12px;
+            font-size: 20px;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+            font-family: 'Space Grotesk', sans-serif;
+            width: 100%;
+            border: 2px solid var(--oil-field-gold);
+        }
+
+        .submit-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 12px 35px rgba(218, 165, 32, 0.4);
+        }
+
+        .benefit-item {
+            background: rgba(218, 165, 32, 0.1);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 20px;
+            border-left: 6px solid var(--oil-field-gold);
+        }
+
+        .benefit-item h3 {
+            color: var(--oil-field-gold);
+            font-size: 20px;
+            margin-bottom: 12px;
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        /* Final CTA */
+        .final-cta {
+            background: var(--gradient-texas);
+            border-radius: 24px;
+            padding: 100px 40px;
+            margin: 60px 20px 40px 20px;
+            text-align: center;
+            color: white;
+        }
+
+        /* Content Sections */
+        .content-section {
+            background: var(--glass-white);
+            border: 2px solid var(--texas-leather);
+            border-radius: 24px;
+            padding: 60px 40px;
+            margin: 80px 20px;
+            backdrop-filter: blur(20px);
+        }
+
+        .content-section h2 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 42px;
+            color: white;
+            margin-bottom: 24px;
+            font-weight: 700;
+            text-align: center;
+        }
+
+        .content-section h3 {
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 28px;
+            color: var(--texas-red);
+            margin-bottom: 20px;
+            font-weight: 600;
+        }
+
+        .content-section p {
+            font-size: 18px;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            margin-bottom: 20px;
+        }
+
+        .content-section ul {
+            color: var(--text-secondary);
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+
+        .content-section li {
+            margin-bottom: 8px;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        .highlight-link {
+            color: var(--oil-field-gold);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .highlight-link:hover {
+            text-decoration: underline;
+        }
+
+        /* FAQ Section */
+        .faq-section {
+            background: var(--glass-white);
+            border: 1px solid var(--glass-border);
+            border-radius: 24px;
+            padding: 48px;
+            margin: 60px 20px;
+            backdrop-filter: blur(20px);
+        }
+
+        .faq-item {
+            background: rgba(218, 165, 32, 0.1);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 16px;
+            border-left: 4px solid var(--oil-field-gold);
+        }
+
+        .faq-item h3 {
+            color: var(--texas-navy);
+            font-size: 20px;
+            margin-bottom: 10px;
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        .success-message {
+            background: #d4edda;
+            border: 1px solid #c3e6cb;
+            border-radius: 6px;
+            padding: 20px;
+            margin: 20px 0;
+            text-align: center;
+            display: none;
+            color: #155724;
+        }
+
+        .success-message h3 {
+            color: #155724;
+            margin-bottom: 10px;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .producer-content {
+                grid-template-columns: 1fr;
+                text-align: center;
+            }
+
+            .quote-container {
+                grid-template-columns: 1fr;
+                gap: 40px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .hero {
+                padding: 60px 0;
+            }
+
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+
+            .texas-badges {
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .texas-trucker-hats-hero {
+                width: 250px;
+                height: 250px;
+            }
+
+            .hero-content h1 {
+                font-size: clamp(32px, 7vw, 42px);
+            }
+
+            .hero-subtitle {
+                font-size: 18px;
+            }
+
+            .container {
+                padding: 0 16px;
+            }
+
+            .texas-operations-section,
+            .elite-producer-section,
+            .content-section,
+            .faq-section,
+            .final-cta {
+                margin: 60px 10px;
+                padding: 40px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="texas-road-background"></div>
+
+    <!-- Texas Authority Header Bar -->
+    <div class="texas-miles-bar">
+        MILES OF TEXAS OIL FIELDS & HOUSTON PORTS UNDER THESE OLD TEXAS HATS • Texas Commercial Trucking Insurance • Ed Zahnle Licensed Elite Producer • Progressive Elite + Sentry Select • Call Ed: <a href="tel:8002668789">800-266-8789</a>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="texas-authority-badge">
+                    TEXAS COMMERCIAL TRUCKING INSURANCE AUTHORITY
+                </div>
+                
+                <h1>Texas Commercial Trucking Insurance</h1>
+                
+                <p class="hero-subtitle">
+                    Miles of Texas oil fields and Houston ports experience - Ed Zahnle's licensed elite producer expertise finds your best Texas commercial trucking insurance coverage
+                </p>
+                
+                <div>
+                    <img src="https://networktruckinginsurance.com/wp-content/uploads/2025/08/ed-zahnle-sentry-appointment-scaled.jpg" 
+                         alt="Texas Trucker Hats Collection - Miles of Texas Commercial Trucking Insurance Authority" 
+                         class="texas-trucker-hats-hero"
+                         title="Miles of Texas oil fields and Houston ports under these old Texas hats - Texas Commercial Trucking Insurance"
+                         onerror="this.style.display='none';">
+                </div>
+
+                <!-- Texas Miles Story -->
+                <div class="texas-miles-story">
+                    <h3>Miles of Texas Commercial Trucking Insurance Experience</h3>
+                    <p>
+                        "There are miles of Texas oil fields and Houston ports under these old Texas hats, and countless miles traversing Texas's diverse operations from Permian Basin energy transport to Port of Houston drayage. Texas commercial trucking insurance requires understanding oil field heavy haul operations, energy sector transport, cross-border freight, agricultural hauling across East Texas, and port logistics. Every mile through Texas's demanding terrain and energy operations built the expertise that delivers your best Texas commercial trucking insurance coverage."
+                    </p>
+                </div>
+                
+                <!-- Texas Authority Badges -->
+                <div class="texas-badges">
+                    <div class="texas-badge-item authority">
+                        TEXAS COMMERCIAL TRUCKING INSURANCE AUTHORITY
+                    </div>
+                    <div class="texas-badge-item oil">
+                        PERMIAN BASIN OIL FIELD EXPERT
+                    </div>
+                    <div class="texas-badge-item port">
+                        HOUSTON PORT DRAYAGE SPECIALIST
+                    </div>
+                </div>
+
+                <div>
+                    <a href="tel:8002668789" class="cta-button">
+                        Call Ed Now - Texas Commercial Trucking Insurance: 800-266-8789
+                    </a>
+                </div>
+
+                <p style="margin-top: 40px; font-size: 20px; color: rgba(255,255,255,0.9);">
+                    <strong>Texas commercial trucking insurance</strong> through <strong>miles of Texas experience</strong> with <strong>Ed Zahnle licensed elite producer</strong> - complete <a href="https://www.fmcsa.dot.gov/regulations/title49/section/387.9" target="_blank" rel="noopener" class="highlight-link">FMCSA compliance</a> for Texas commercial trucking insurance operations from Permian Basin to Houston ports
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Primary Definition Section -->
+    <section class="content-section">
+        <div class="container">
+            <h2>Texas Commercial Trucking Insurance: Licensed Elite Producer Excellence</h2>
+            <p><strong>Texas commercial trucking insurance</strong> provides comprehensive coverage for commercial trucking operations throughout the state of Texas through licensed elite producer Ed Zahnle's expertise and carrier relationships. This specialized <strong>Texas commercial trucking insurance</strong> covers Permian Basin oil field operations, Houston port drayage, agricultural transport, construction hauling, and energy sector freight with complete FMCSA compliance and Texas-specific regulatory requirements.</p>
+            
+            <p>Ed Zahnle specializes in <strong>Texas commercial trucking insurance</strong> because Texas trucking requires understanding of oil field operations, port complexities, border trade regulations, and diverse industry challenges from energy transport to agricultural hauling. Standard agents struggle with Texas's unique requirements, while Ed's licensed elite producer status provides specialized coverage that generic agents cannot offer for <strong>Texas commercial trucking insurance</strong>.</p>
+            
+            <h3>Licensed Elite Producer Texas Commercial Trucking Insurance Components:</h3>
+            <p><strong>Texas commercial trucking insurance</strong> through Ed's licensed elite producer platform includes auto liability meeting <a href="https://www.fmcsa.dot.gov/regulations/title49/section/387.9" target="_blank" rel="noopener" class="highlight-link">FMCSA Section 387.9 requirements</a>, cargo coverage for high-value energy and agricultural shipments, general liability for Texas operations, physical damage for equipment protection, and specialized oil field coverage meeting <a href="https://www.rrc.texas.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Railroad Commission standards</a>. Complete <strong>Texas commercial trucking insurance</strong> solution with licensed elite producer service excellence.</p>
+        </div>
+    </section>
+
+    <!-- Texas Operations Features -->
+    <section class="texas-operations-section">
+        <div class="container">
+            <div class="section-header">
+                <h2>Miles of Texas Commercial Trucking Insurance Experience</h2>
+                <p>Texas commercial trucking insurance expertise built through countless miles serving Texas's unique transportation challenges</p>
+            </div>
+            
+            <div class="texas-operations-grid">
+                <div class="texas-operations-card">
+                    <h3>Permian Basin Oil Field Texas Commercial Trucking Insurance</h3>
+                    <p>Miles of experience serving Permian Basin oil operations - water hauling, drilling equipment transport, frac sand delivery, and energy services. Texas commercial trucking insurance that understands the specialized needs of oil field heavy haul operations with complete regulatory compliance.</p>
+                </div>
+                
+                <div class="texas-operations-card">
+                    <h3>Houston Port Drayage Texas Commercial Trucking Insurance</h3>
+                    <p>Comprehensive Texas commercial trucking insurance for Port of Houston operations - container transport, petrochemical hauling, international freight, and energy corridor logistics with specialized coverage for port authority requirements and enhanced security standards.</p>
+                </div>
+                
+                <div class="texas-operations-card">
+                    <h3>Texas Commercial Trucking Insurance Energy Transport Operations</h3>
+                    <p>Specialized Texas commercial trucking insurance for energy sector - oil and gas transport, pipeline equipment, Eagle Ford Shale operations, and energy industry logistics throughout Texas with specialized coverage meeting energy sector compliance requirements.</p>
+                </div>
+                
+                <div class="texas-operations-card">
+                    <h3>Texas Commercial Trucking Insurance Border Trade Services</h3>
+                    <p>Texas commercial trucking insurance for border operations - Laredo, El Paso, McAllen, and Brownsville cross-border freight, international trade compliance, and CBP requirements with specialized coverage for Mexico trade corridor operations.</p>
+                </div>
+                
+                <div class="texas-operations-card">
+                    <h3>Dallas-Fort Worth Texas Commercial Trucking Insurance Hub</h3>
+                    <p>Miles of experience serving DFW metroplex - airport logistics, distribution center operations, manufacturing transport, and regional freight with specialized Texas commercial trucking insurance coverage for metropolitan area challenges and interstate commerce.</p>
+                </div>
+                
+                <div class="texas-operations-card">
+                    <h3>Texas Commercial Trucking Insurance Agricultural Operations</h3>
+                    <p>Expert Texas commercial trucking insurance for agricultural operations - cattle transport, grain hauling, cotton freight, and livestock transport with specialized agricultural coverage throughout East Texas, Panhandle, and South Texas regions.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Enhanced Texas Cities Coverage -->
+    <section class="content-section">
+        <div class="container">
+            <h2 style="color: var(--texas-red); font-size: 32px; margin-bottom: 16px; text-align: center;">Complete Texas Commercial Trucking Insurance Coverage - Houston to El Paso</h2>
+            <p style="color: var(--text-secondary); font-size: 18px; line-height: 1.6; margin-bottom: 24px; text-align: center;">
+                Ed's comprehensive <strong>Texas commercial trucking insurance</strong> expertise covers every major city and operation across the entire state through his licensed elite producer platform with complete <a href="https://www.fmcsa.dot.gov/regulations/title49/section/387.9" target="_blank" rel="noopener" class="highlight-link">FMCSA Section 387.9 compliance</a> for all <strong>Texas commercial trucking insurance</strong> operations.
+            </p>
+            
+            <h3>Houston Metro Texas Commercial Trucking Insurance Hub</h3>
+            <p><strong>Texas commercial trucking insurance</strong> for Houston operations includes <a href="https://www.portofhouston.com/" target="_blank" rel="noopener" class="highlight-link">Port of Houston</a> drayage, energy corridor transport, petrochemical hauling, and international freight with specialized coverage through Ed's licensed elite producer platform. Houston's complex port operations and energy infrastructure require expert <strong>Texas commercial trucking insurance</strong> knowledge that Ed provides.</p>
+            
+            <h3>Dallas-Fort Worth Texas Commercial Trucking Insurance Operations</h3>
+            <p>Comprehensive <strong>Texas commercial trucking insurance</strong> for DFW operations covering <a href="https://www.dfwairport.com/" target="_blank" rel="noopener" class="highlight-link">DFW Airport</a> logistics, regional distribution, manufacturing transport, and interstate commerce. The DFW metroplex requires sophisticated <strong>Texas commercial trucking insurance</strong> coverage that Ed's licensed elite producer platform provides.</p>
+            
+            <h3>Permian Basin Oil Field Texas Commercial Trucking Insurance</h3>
+            <p>Specialized <strong>Texas commercial trucking insurance</strong> for Permian Basin oil field operations including water hauling, drilling equipment transport, frac sand delivery, and energy services. Ed's expertise in oil field operations provides comprehensive <strong>Texas commercial trucking insurance</strong> meeting <a href="https://www.rrc.texas.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Railroad Commission</a> requirements.</p>
+            
+            <h3>Border Cities Texas Commercial Trucking Insurance</h3>
+            <p>Expert <strong>Texas commercial trucking insurance</strong> for border operations in Laredo, El Paso, McAllen, and Brownsville covering cross-border trade, international freight, and <a href="https://www.cbp.gov/" target="_blank" rel="noopener" class="highlight-link">CBP compliance</a>. Border operations require specialized knowledge that Ed provides through his licensed elite producer platform for complete <strong>Texas commercial trucking insurance</strong> coverage.</p>
+        </div>
+    </section>
+
+    <!-- Elite Producer Section -->
+    <section class="elite-producer-section">
+        <div class="container">
+            <div class="producer-content">
+                <div class="ed-showcase">
+                    <!-- Ed's office photo -->
+                    <img src="https://networktruckinginsurance.com/wp-content/uploads/2025/08/ed-office-1.webp" 
+                         alt="Ed Zahnle Licensed Elite Producer Texas Commercial Trucking Insurance Expert" 
+                         class="ed-main-photo"
+                         title="Ed Zahnle - Texas Commercial Trucking Insurance Licensed Elite Producer">
+                    
+                    <!-- Award Photos -->
+                    <div class="ed-award-photos">
+                        <img src="https://networktruckinginsurance.com/wp-content/uploads/2025/08/ed-zahnle-progressive-premier-award.webp" 
+                             alt="Ed Zahnle Professional Recognition" 
+                             class="ed-award-photo"
+                             title="Ed Zahnle Professional Recognition">
+                        <img src="https://networktruckinginsurance.com/wp-content/uploads/2025/08/network-trucking-team.webp" 
+                             alt="Network Trucking Insurance Team" 
+                             class="ed-award-photo"
+                             title="Network Trucking Insurance Team">
+                    </div>
+                    
+                    <div style="margin-top: 20px;">
+                        <h3 style="color: var(--progressive-orange); font-family: 'Space Grotesk', sans-serif; font-size: 24px; margin-bottom: 8px;">Ed Zahnle</h3>
+                        <p style="color: var(--lone-star-blue); font-size: 16px; font-weight: 700;">Licensed Elite Producer</p>
+                        <p style="color: var(--oil-field-gold); font-size: 16px; font-weight: 700;">Texas Commercial Trucking Insurance Specialist</p>
+                        <p style="color: var(--text-secondary); font-size: 14px;">15+ Years Experience</p>
+                        <p style="color: var(--text-secondary); font-size: 14px;">Bilingual Specialist (English/Spanish)</p>
+                        <p style="color: var(--elite-access-teal); font-size: 12px; font-weight: 600; margin-top: 8px;">CA License #0I54458</p>
+                    </div>
+                </div>
+                
+                <div class="producer-details">
+                    <h3>Miles of Texas Commercial Trucking Insurance Expertise</h3>
+                    
+                    <div class="producer-box elite-box">
+                        <h4>ED'S ELITE MARKET ACCESS FOR TEXAS COMMERCIAL TRUCKING INSURANCE</h4>
+                        <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 12px;">
+                            Ed's licensed elite producer status provides exclusive access to <strong>Progressive Elite markets</strong>, <strong>Sentry Select appointments</strong>, and <strong>BHHC specialty programs</strong> for Texas commercial trucking insurance. These elite relationships built over countless Texas miles provide operators with coverage options that 99% of agents never see. Complete compliance with <a href="https://www.fmcsa.dot.gov/safety" target="_blank" rel="noopener" class="highlight-link">FMCSA safety standards</a> and <a href="https://www.transportation.gov/" target="_blank" rel="noopener" class="highlight-link">USDOT requirements</a> through elite carrier relationships.
+                        </p>
+                    </div>
+
+                    <div class="producer-box texas-box">
+                        <h4>ED'S TEXAS COMMERCIAL TRUCKING INSURANCE SPECIALIZATION</h4>
+                        <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 12px;">
+                            <strong>15+ years serving Texas commercial trucking insurance</strong> with deep expertise in Permian Basin oil fields, Houston port operations, energy transport, and border trade. Ed understands Texas's unique challenges from oil field hazards to port security requirements. Texas commercial trucking insurance requires specialized knowledge that Ed provides through years of dedicated Texas service and bilingual expertise (CA License #0I54458).
+                        </p>
+                    </div>
+
+                    <div class="producer-box solution-box">
+                        <h4>YOUR TEXAS COMMERCIAL TRUCKING INSURANCE SOLUTION</h4>
+                        <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 12px;">
+                            <strong>Miles of Texas commercial trucking insurance experience + Ed's licensed elite producer expertise + Your excellent driving record = Best Texas solution!</strong> This combination delivers exclusive access to Progressive Elite markets, Sentry Select appointments, and BHHC specialty programs through Ed's established relationships. Comprehensive Texas commercial trucking insurance with bilingual service and complete coverage for all Texas operations. Miles of Texas oil fields and Houston ports under these old Texas hats built the expertise that delivers your best Texas commercial trucking insurance coverage!
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Authority Links Section -->
+    <section class="content-section">
+        <div class="container">
+            <h2 style="color: var(--lone-star-blue); font-size: 28px; margin-bottom: 16px; text-align: center;">Federal, State & Industry Authority Network for Texas Commercial Trucking Insurance</h2>
+            <p style="color: var(--text-secondary); font-size: 18px; line-height: 1.6; margin-bottom: 24px; text-align: center;">
+                Comprehensive regulatory compliance and industry authority network for Texas commercial trucking operations
+            </p>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 24px; margin-top: 32px;">
+                <div style="background: rgba(30, 64, 175, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--lone-star-blue);">
+                    <h4 style="color: var(--lone-star-blue); font-size: 18px; margin-bottom: 12px;">Federal Transportation Authority</h4>
+                    <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px;"><a href="https://www.fmcsa.dot.gov/" target="_blank" rel="noopener" class="highlight-link">Federal Motor Carrier Safety Administration</a> - FMCSA safety regulations</p>
+                    <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px;"><a href="https://www.transportation.gov/" target="_blank" rel="noopener" class="highlight-link">US Department of Transportation</a> - Federal transportation standards</p>
+                    <p style="color: var(--text-secondary); line-height: 1.6;"><a href="https://www.nhtsa.gov/" target="_blank" rel="noopener" class="highlight-link">National Highway Traffic Safety Admin</a> - Vehicle safety standards</p>
+                </div>
+                
+                <div style="background: rgba(191, 10, 48, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--texas-red);">
+                    <h4 style="color: var(--texas-red); font-size: 18px; margin-bottom: 12px;">Texas State Authority</h4>
+                    <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px;"><a href="https://www.txdot.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Department of Transportation</a> - State transportation regulations</p>
+                    <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px;"><a href="https://www.rrc.texas.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Railroad Commission</a> - Oil field operation oversight</p>
+                    <p style="color: var(--text-secondary); line-height: 1.6;"><a href="https://www.tdi.texas.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Department of Insurance</a> - State insurance requirements</p>
+                </div>
+                
+                <div style="background: rgba(218, 165, 32, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--oil-field-gold);">
+                    <h4 style="color: var(--oil-field-gold); font-size: 18px; margin-bottom: 12px;">Licensed Elite Producer Carriers</h4>
+                    <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px;"><a href="https://www.sentry.com/commercial-insurance/transportation" target="_blank" rel="noopener" class="highlight-link">Sentry Insurance Transportation</a> - Elite appointment access</p>
+                    <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px;"><a href="https://www.progressive.com/commercial/truck/" target="_blank" rel="noopener" class="highlight-link">Progressive Commercial Trucking</a> - Premier producer access</p>
+                    <p style="color: var(--text-secondary); line-height: 1.6;"><a href="https://www.berkshirehathaway.com/" target="_blank" rel="noopener" class="highlight-link">Berkshire Hathaway Commercial</a> - Specialty program access</p>
+                </div>
+
+                <div style="background: rgba(70, 130, 180, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--permian-blue);">
+                    <h4 style="color: var(--permian-blue); font-size: 18px; margin-bottom: 12px;">Texas Port & Energy Authority</h4>
+                    <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px;"><a href="https://www.portofhouston.com/" target="_blank" rel="noopener" class="highlight-link">Port of Houston Authority</a> - Port operations standards</p>
+                    <p style="color: var(--text-secondary); line-height: 1.6; margin-bottom: 8px;"><a href="https://www.cbp.gov/" target="_blank" rel="noopener" class="highlight-link">US Customs & Border Protection</a> - Border trade compliance</p>
+                    <p style="color: var(--text-secondary); line-height: 1.6;"><a href="https://www.api.org/" target="_blank" rel="noopener" class="highlight-link">American Petroleum Institute</a> - Energy industry standards</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FMCSA Compliance Section -->
+    <section class="content-section">
+        <div class="container">
+            <h2 style="color: var(--lone-star-blue); font-size: 28px; margin-bottom: 16px; text-align: center;">Texas FMCSA & State Compliance Requirements for Texas Commercial Trucking Insurance</h2>
+            <p style="color: var(--text-secondary); font-size: 18px; line-height: 1.6; margin-bottom: 24px; text-align: center;">
+                Ed ensures all <strong>Texas commercial trucking insurance</strong> meets <a href="https://www.fmcsa.dot.gov/regulations/title49/section/387.9" target="_blank" rel="noopener" class="highlight-link">FMCSA Section 387.9 minimum insurance requirements</a> and Texas-specific regulations through <a href="https://www.txdot.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Department of Transportation compliance</a>. All policies meet <a href="https://www.transportation.gov/" target="_blank" rel="noopener" class="highlight-link">US Department of Transportation standards</a> and follow <a href="https://www.tdi.texas.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Department of Insurance requirements</a> for complete <strong>Texas commercial trucking insurance</strong> compliance.
+            </p>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-top: 24px;">
+                <div style="background: rgba(30, 64, 175, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--lone-star-blue);">
+                    <h4 style="color: var(--lone-star-blue); font-size: 18px; margin-bottom: 12px;">FMCSA Minimum Liability Requirements</h4>
+                    <p style="color: var(--text-secondary); line-height: 1.6;"><strong>Texas commercial trucking insurance</strong> must meet <a href="https://www.fmcsa.dot.gov/regulations/title49/section/387.9" target="_blank" rel="noopener">FMCSA Section 387.9</a> with $750,000 minimum for general freight and $1,000,000 for hazardous materials. Compliance with <a href="https://www.ecfr.gov/current/title-49/subtitle-B/chapter-III/subchapter-B/part-387" target="_blank" rel="noopener">49 CFR Part 387</a> insurance regulations essential for all <strong>Texas commercial trucking insurance</strong>.</p>
+                </div>
+                
+                <div style="background: rgba(191, 10, 48, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--texas-red);">
+                    <h4 style="color: var(--texas-red); font-size: 18px; margin-bottom: 12px;">Texas Railroad Commission Requirements</h4>
+                    <p style="color: var(--text-secondary); line-height: 1.6;"><a href="https://www.rrc.texas.gov/" target="_blank" rel="noopener">Texas Railroad Commission</a> requires additional coverage for oil field operations with environmental protection and specialized equipment coverage in all <strong>Texas commercial trucking insurance</strong> policies for energy sector operations.</p>
+                </div>
+                
+                <div style="background: rgba(0, 40, 104, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--texas-navy);">
+                    <h4 style="color: var(--texas-navy); font-size: 18px; margin-bottom: 12px;">Cross-Border Trade Requirements</h4>
+                    <p style="color: var(--text-secondary); line-height: 1.6;">Texas border operations require <a href="https://www.cbp.gov/" target="_blank" rel="noopener">CBP compliance</a> and specialized coverage for international freight meeting enhanced security standards within comprehensive <strong>Texas commercial trucking insurance</strong>.</p>
+                </div>
+                
+                <div style="background: rgba(70, 130, 180, 0.1); padding: 20px; border-radius: 12px; border-left: 4px solid var(--permian-blue);">
+                    <h4 style="color: var(--permian-blue); font-size: 18px; margin-bottom: 12px;">Port Operations Requirements</h4>
+                    <p style="color: var(--text-secondary); line-height: 1.6;">Houston port operations require specialized coverage meeting <a href="https://www.portofhouston.com/" target="_blank" rel="noopener">Port of Houston Authority</a> standards with enhanced <a href="https://www.nhtsa.gov/commercial-motor-vehicles" target="_blank" rel="noopener">NHTSA safety standards</a> in all <strong>Texas commercial trucking insurance</strong> policies.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section">
+        <div class="container">
+            <h2 style="color: var(--lone-star-blue); font-size: 28px; margin-bottom: 30px; text-align: center;">Frequently Asked Questions - Texas Commercial Trucking Insurance</h2>
+            
+            <div class="faq-item">
+                <h3>What is Texas commercial trucking insurance?</h3>
+                <p><strong>Texas commercial trucking insurance</strong> provides comprehensive coverage for commercial trucking operations throughout Texas, including Permian Basin oil field operations, Houston port drayage, agricultural transport, and construction hauling. Licensed elite producer Ed Zahnle offers specialized coverage through Sentry, Progressive, BHHC with complete <a href="https://www.fmcsa.dot.gov/regulations/title49/section/387.9" target="_blank" rel="noopener">FMCSA compliance</a>.</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Why choose a licensed elite producer for Texas trucking insurance?</h3>
+                <p>Licensed elite producer Ed Zahnle provides exclusive access to multiple carriers including <a href="https://www.sentry.com/" target="_blank" rel="noopener">Sentry Insurance</a>, <a href="https://www.progressive.com/commercial/" target="_blank" rel="noopener">Progressive Commercial</a>, <a href="https://www.berkshirehathaway.com/" target="_blank" rel="noopener">BHHC</a>, and specialty markets that standard agents cannot access. This ensures competitive rates and optimal coverage for <strong>Texas commercial trucking insurance</strong>.</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Does Texas commercial trucking insurance cover oil field operations?</h3>
+                <p>Yes, <strong>Texas commercial trucking insurance</strong> includes specialized coverage for Permian Basin oil field operations, water hauling, drilling equipment transport, and energy sector freight with complete <a href="https://www.rrc.texas.gov/" target="_blank" rel="noopener">Texas Railroad Commission</a> compliance and <a href="https://www.fmcsa.dot.gov/" target="_blank" rel="noopener">FMCSA requirements</a>.</p>
+            </div>
+            
+            <div class="faq-item">
+                <h3>Is bilingual service available for Texas trucking insurance?</h3>
+                <p>Yes, licensed elite producer Ed Zahnle provides complete bilingual service in English and Spanish for <strong>Texas commercial trucking insurance</strong>, including Spanish documentation and culturally appropriate service for Hispanic-owned trucking operations across all Texas regions.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Quote Section -->
+    <section class="quote-section">
+        <div class="container">
+            <div style="text-align: center; margin-bottom: 60px;">
+                <h2 style="font-size: 52px; color: var(--houston-yellow); margin-bottom: 20px; font-weight: 700;">Get Your Texas Commercial Trucking Insurance Quote!</h2>
+                <p style="color: rgba(255,255,255,0.9); font-size: 22px;">Miles of Texas experience + Ed's licensed elite producer expertise + Your excellent record = Best Texas commercial trucking insurance solution</p>
+            </div>
+
+            <div class="quote-container">
+                <!-- Quote Form -->
+                <div class="quote-form-container">
+                    <div class="form-header">
+                        <h2>Texas Commercial Trucking Insurance Service</h2>
+                        <p>Complete the form below or call Ed directly at 800-266-8789 - Miles of Texas commercial trucking insurance experience!</p>
+                    </div>
+                    
+                    <!-- Success Message -->
+                    <div class="success-message" id="successMessage">
+                        <h3>Quote Successfully Submitted!</h3>
+                        <p>Your quote has been submitted and saved to our system.</p>
+                        <p>A document request email has been sent to your provided email address.</p>
+                        <p>Ed Zahnle will contact you within 24 hours to discuss your quote.</p>
+                    </div>
+                    
+                    <form id="quoteForm" novalidate>
+                        <div class="form-group">
+                            <label class="form-label">Your Name *</label>
+                            <input type="text" name="name" id="name" required class="form-input" placeholder="Enter your full name">
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label class="form-label">Phone Number *</label>
+                                <input type="tel" name="phone" id="phone" required class="form-input" placeholder="(713) 555-0123">
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Email Address *</label>
+                                <input type="email" name="email" id="email" required class="form-input" placeholder="your@email.com">
+                            </div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label class="form-label">Texas Trucking Company Name</label>
+                            <input type="text" name="company" id="company" class="form-input" placeholder="Your Texas trucking company name">
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label class="form-label">Texas Operating Region *</label>
+                                <select name="texas_region" id="texas_region" required class="form-select">
+                                    <option value="">Select Texas operating region</option>
+                                    <option value="Houston Metro & Port">Houston Metro & Port</option>
+                                    <option value="Dallas-Fort Worth">Dallas-Fort Worth Metroplex</option>
+                                    <option value="San Antonio">San Antonio Region</option>
+                                    <option value="Austin">Austin Capitol Region</option>
+                                    <option value="Permian Basin">Permian Basin Oil Fields</option>
+                                    <option value="Eagle Ford Shale">Eagle Ford Shale Region</option>
+                                    <option value="East Texas">East Texas Oil & Agriculture</option>
+                                    <option value="El Paso Border">El Paso Border Region</option>
+                                    <option value="Laredo Border">Laredo Border Region</option>
+                                    <option value="Texas Statewide">Texas Statewide Operations</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="form-label">Fleet Size *</label>
+                                <select name="truck_count" id="truck_count" required class="form-select">
+                                    <option value="">Select fleet size</option>
+                                    <option value="1">1 Truck</option>
+                                    <option value="2-3">2-3 Trucks</option>
+                                    <option value="4-5">4-5 Trucks</option>
+                                    <option value="6-10">6-10 Trucks</option>
+                                    <option value="11-20">11-20 Trucks</option>
+                                    <option value="21-50">21-50 Trucks</option>
+                                    <option value="50+">50+ Trucks</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label class="form-label">Texas Commercial Trucking Insurance Operation Type *</label>
+                            <div class="checkbox-group">
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="texas_operation_type" value="permian_basin_oil">
+                                    <span>Permian Basin Oil Field</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="texas_operation_type" value="houston_port_drayage">
+                                    <span>Houston Port Drayage</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="texas_operation_type" value="texas_energy_transport">
+                                    <span>Texas Energy Transport</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="texas_operation_type" value="texas_border_trade">
+                                    <span>Texas Border Trade</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="texas_operation_type" value="texas_agricultural">
+                                    <span>Texas Agricultural Freight</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="texas_operation_type" value="texas_construction">
+                                    <span>Texas Construction Materials</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="texas_operation_type" value="texas_general_freight">
+                                    <span>Texas General Freight</span>
+                                </label>
+                                <label class="checkbox-item">
+                                    <input type="checkbox" name="texas_operation_type" value="texas_interstate">
+                                    <span>Texas Interstate Operations</span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="form-label">Language Preference</label>
+                            <select name="language_preference" id="language_preference" class="form-select">
+                                <option value="English">English</option>
+                                <option value="Spanish">Español (Spanish)</option>
+                                <option value="Both">Both English & Spanish</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label class="form-label">Tell Ed About Your Texas Commercial Trucking Insurance Operations</label>
+                            <textarea name="texas_operation_details" id="texas_operation_details" rows="4" class="form-textarea" placeholder="Describe your Texas commercial trucking insurance needs: Permian Basin oil field operations, Houston port drayage, energy transport, border trade, agricultural freight, construction materials, I-35 I-45 I-10 corridor routes, any claims history, or special Texas requirements. Miles of Texas oil fields and Houston ports under these old Texas hats serving operators..."></textarea>
+                        </div>
+                        
+                        <button type="submit" class="submit-button" id="submitBtn">
+                            Get My Texas Commercial Trucking Insurance Quote!
+                        </button>
+                    </form>
+                </div>
+                
+                <!-- Quote Benefits -->
+                <div class="quote-benefits">
+                    <div class="benefits-header">
+                        <h2>The Texas Commercial Trucking Insurance Advantage!</h2>
+                        <p style="color: var(--text-secondary);">Miles of Texas experience + Licensed elite producer expertise + Professional excellence</p>
+                    </div>
+                    
+                    <div class="benefit-item">
+                        <h3>Miles of Texas Commercial Trucking Insurance Experience</h3>
+                        <p>Ed brings miles of experience serving Texas commercial trucking insurance operations from Permian Basin oil fields to Houston port operations. Understanding Texas's diverse transportation challenges from oil field hazards to port security through years of dedicated Texas service.</p>
+                    </div>
+                    
+                    <div class="benefit-item">
+                        <h3>Permian Basin Oil Field Commercial Trucking Insurance Expertise</h3>
+                        <p>Specialized Texas commercial trucking insurance for oil field operations - water hauling, frac sand transport, drilling equipment, and energy services. Comprehensive coverage designed for Texas's demanding oil field industry with <a href="https://www.rrc.texas.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Railroad Commission</a> compliance.</p>
+                    </div>
+                    
+                    <div class="benefit-item">
+                        <h3>Houston Port Operations Commercial Trucking Insurance Authority</h3>
+                        <p>Expert Texas commercial trucking insurance for Houston port operations - container drayage, petrochemical transport, international freight throughout Port of Houston complex with specialized coverage for port authority requirements and enhanced security standards.</p>
+                    </div>
+                    
+                    <div class="benefit-item">
+                        <h3>Texas Energy and Border Trade Commercial Trucking Insurance Coverage</h3>
+                        <p>Comprehensive Texas commercial trucking insurance for energy sector operations, cross-border trade, agricultural freight, and specialized coverage for Texas's diverse transportation requirements with federal compliance and enhanced security measures.</p>
+                    </div>
+                    
+                    <div class="benefit-item">
+                        <h3>Complete Texas Commercial Trucking Insurance FMCSA Compliance Coverage</h3>
+                        <p>All Texas commercial trucking insurance meets <a href="https://www.fmcsa.dot.gov/regulations/title49/section/387.9" target="_blank" rel="noopener" class="highlight-link">FMCSA safety standards</a> and <a href="https://www.txdot.gov/" target="_blank" rel="noopener" class="highlight-link">Texas Department of Transportation</a> requirements. Miles of experience ensuring your Texas operations maintain complete federal and state compliance through proper commercial trucking insurance coverage.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="final-cta">
+        <div class="container">
+            <div style="max-width: 900px; margin: 0 auto;">
+                <h2 style="font-size: 48px; margin-bottom: 30px; font-weight: 800;">TEXAS COMMERCIAL TRUCKING INSURANCE - CALL ED NOW!</h2>
+                <p style="font-size: 24px; margin-bottom: 40px; font-weight: 600;">Miles of Texas Experience + Ed's Licensed Elite Producer Service + Your Excellent Record = Best Texas Commercial Trucking Insurance Solution!</p>
+                
+                <div style="background: rgba(255,255,255,0.2); border-radius: 20px; padding: 40px; margin: 50px 0;">
+                    <h4 style="color: #FCD34D; margin-bottom: 20px; font-family: 'Space Grotesk', sans-serif; font-size: 28px;">"Miles of Texas oil fields and Houston ports under these old Texas hats..."</h4>
+                    <p style="color: rgba(255, 255, 255, 0.95); font-size: 20px; line-height: 1.7; font-style: italic;">
+                        "When you call 800-266-8789 and ask for Ed, your Texas commercial trucking insurance gets handled by a licensed elite producer with miles of Texas experience. From Permian Basin oil field operations to Houston port drayage, Eagle Ford Shale energy transport to Laredo border trade - Ed's Texas commercial trucking insurance expertise covers every mile of Texas terrain. Your excellent driving record combined with miles of Texas experience and Ed's licensed elite producer expertise creates the best Texas commercial trucking insurance solution. Miles of Texas oil fields and Houston ports under these old Texas hats built the expertise that delivers your best coverage!"
+                    </p>
+                    <p style="color: var(--houston-yellow); font-weight: 700; font-size: 20px; margin-top: 20px;">
+                        - Ed Zahnle, Licensed Elite Producer, Miles of Texas Commercial Trucking Insurance Experience (CA #0I54458)
+                    </p>
+                </div>
+
+                <div style="text-align: center;">
+                    <a href="tel:8002668789" style="background: rgba(255,255,255,0.9); color: var(--texas-leather); padding: 28px 70px; text-decoration: none; font-weight: 800; font-size: 1.5rem; border-radius: 50px; display: inline-block; box-shadow: 0 10px 30px rgba(0,0,0,0.3); transition: transform 0.3s ease; margin: 24px; border: 3px solid var(--oil-field-gold);">
+                        TEXAS COMMERCIAL TRUCKING INSURANCE: 800-266-8789
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        // Google Apps Script URL for form submission  
+        const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzshU9AZRUtiplATI55KRHG7klF2jK-_C9aCowRFEhbiW5-x-jU_j7qzH5JkwNwxUGy/exec';
+        
+        // Form submission handler
+        document.getElementById('quoteForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const submitBtn = document.getElementById('submitBtn');
+            const originalText = submitBtn.innerHTML;
+            
+            // Show loading state
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = 'Processing Your Texas Quote...';
+            
+            try {
+                // Collect form data
+                const formData = new FormData(this);
+                const data = Object.fromEntries(formData.entries());
+                
+                // Add metadata
+                data.timestamp = new Date().toISOString();
+                data.quoteId = `TX-${Date.now()}`;
+                data.agent = 'Ed Zahnle - Licensed Elite Producer CA #0I54458';
+                data.form_type = 'Texas Commercial Trucking Insurance Quote Request';
+                
+                // Submit to Google Apps Script - handles everything server-side
+                await fetch(GOOGLE_SCRIPT_URL, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify(data),
+                    mode: 'no-cors'
+                });
+                
+                // Show success message
+                document.getElementById('successMessage').style.display = 'block';
+                document.getElementById('successMessage').scrollIntoView({ behavior: 'smooth', block: 'start' });
+                
+                // Hide form
+                this.style.display = 'none';
+                
+            } catch (error) {
+                console.error('Form submission error:', error);
+                alert('There was an issue submitting your quote. Your data may have been saved to our system. Ed Zahnle will contact you at the provided phone number.');
+            } finally {
+                // Reset button state
+                submitBtn.disabled = false;
+                submitBtn.innerHTML = originalText;
+            }
+        });
+        
+        
+        // Enhanced JavaScript functionality
+        document.addEventListener('DOMContentLoaded', function() {
+            // Phone number formatting
+            const phoneInput = document.getElementById('phone');
+            if (phoneInput) {
+                phoneInput.addEventListener('input', function() {
+                    let value = this.value.replace(/\D/g, '');
+                    if (value.length >= 6) {
+                        value = '(' + value.slice(0, 3) + ') ' + value.slice(3, 6) + '-' + value.slice(6, 10);
+                    } else if (value.length >= 3) {
+                        value = '(' + value.slice(0, 3) + ') ' + value.slice(3);
+                    }
+                    this.value = value;
+                });
+            }
+            
+            // Add click tracking for phone numbers
+            document.querySelectorAll('a[href^="tel:"]').forEach(phoneLink => {
+                phoneLink.addEventListener('click', function() {
+                    console.log('Texas Commercial Trucking Insurance Phone Call Initiated: ' + this.href);
+                });
+            });
+        });
+
+        // Smooth scrolling for anchors
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Animation observer for scroll effects
+        if ('IntersectionObserver' in window) {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.style.animation = 'fadeInUp 0.6s ease-out';
+                    }
+                });
+            }, {
+                threshold: 0.1
+            });
+
+            // Observe sections for scroll animations
+            document.querySelectorAll('.texas-operations-card, .benefit-item').forEach(el => {
+                observer.observe(el);
+            });
+        }
+
+        // Add CSS animation keyframes
+        const styleSheet = document.createElement('style');
+        styleSheet.textContent = `
+            @keyframes fadeInUp {
+                from {
+                    opacity: 0;
+                    transform: translateY(30px);
+                }
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
+            }
+        `;
+        document.head.appendChild(styleSheet);
+
+        // Texas message rotation
+        const texasMessages = [
+            "MILES OF TEXAS OIL FIELDS & HOUSTON PORTS UNDER THESE OLD TEXAS HATS • Texas Commercial Trucking Insurance • Ed Zahnle Licensed Elite Producer",
+            "PERMIAN BASIN TO PORT OF HOUSTON • Professional Excellence! Ed's Licensed Elite Producer Status = Superior Texas Service & Coverage!",
+            "WESTERN STATES AUTHORITY + TEXAS EXPERTISE • Call Ed Now for Best Texas Commercial Trucking Insurance!"
+        ];
+
+        let messageIndex = 0;
+        function rotateTexasMessage() {
+            const texasBar = document.querySelector('.texas-miles-bar');
+            if (texasBar) {
+                messageIndex = (messageIndex + 1) % texasMessages.length;
+                const messageText = texasMessages[messageIndex] + ' • Call Ed: ';
+                texasBar.innerHTML = messageText + '<a href="tel:8002668789">800-266-8789</a>';
+            }
+        }
+
+        setInterval(rotateTexasMessage, 6000);
+    </script>
+
+    <!-- Schema.org structured data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Texas Commercial Trucking Insurance | Miles of Experience | Ed Zahnle Licensed Elite Producer",
+        "description": "Texas commercial trucking insurance through miles of experience. Ed Zahnle licensed elite producer provides Permian Basin oil field, Houston port drayage, energy transport coverage with comprehensive FMCSA compliant solutions.",
+        "url": "https://networktruckinginsurance.github.io/texas-commercial-trucking-insurance",
+        "mainEntity": {
+            "@type": "Service",
+            "name": "Texas Commercial Trucking Insurance Service",
+            "provider": {
+                "@type": "InsuranceAgency",
+                "name": "Network Trucking Insurance",
+                "employee": {
+                    "@type": "Person",
+                    "name": "Ed Zahnle",
+                    "jobTitle": "Licensed Elite Producer"
+                }
+            },
+            "areaServed": [
+                "Houston Texas", "Dallas Texas", "San Antonio Texas", "Austin Texas", 
+                "Fort Worth Texas", "El Paso Texas", "Permian Basin Texas", "Eagle Ford Shale Texas", "Texas Statewide"
+            ],
+            "offers": {
+                "@type": "Offer",
+                "name": "Texas Commercial Trucking Insurance Quote",
+                "description": "Permian Basin oil field, Houston port drayage, energy transport coverage through Ed's miles of Texas experience"
+            }
+        }
+    }
+    </script>
+</body>
+</html>
